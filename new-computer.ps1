@@ -18,3 +18,4 @@ choco install git -y
 choco install steam -y
 choco install discord -y
 choco install spotify -y
+choco install keytweak -y
