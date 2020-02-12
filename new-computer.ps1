@@ -19,3 +19,4 @@ choco install steam -y
 choco install discord -y
 choco install spotify -y
 choco install keytweak -y
+choco install telegram -y
