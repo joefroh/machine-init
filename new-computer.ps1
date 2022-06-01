@@ -20,3 +20,6 @@ choco install discord -y
 choco install spotify -y
 choco install keytweak -y
 choco install telegram -y
+choco install autohotkey -y
+
+./ahk-startup.ps1
