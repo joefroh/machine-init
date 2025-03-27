@@ -14,8 +14,10 @@ echo Homebrew should be installed now. Installing packages...
 brew install \
  git \
  google-chrome \
+ keeper-password-manager \
  iterm2 \
  visual-studio-code \
+ discord \
  spotify \
  microsoft-outlook \
  pyenv \
@@ -37,4 +39,3 @@ exec "$SHELL"
 
 # Update pip
 pip install --upgrade pip
-
