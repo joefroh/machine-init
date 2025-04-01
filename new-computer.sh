@@ -18,6 +18,7 @@ brew install \
  iterm2 \
  visual-studio-code \
  discord \
+ signal \
  spotify \
  microsoft-outlook \
  pyenv \
