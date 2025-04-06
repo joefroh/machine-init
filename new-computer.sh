@@ -22,6 +22,10 @@ brew install \
  spotify \
  microsoft-outlook \
  pyenv \
+ mas \
+
+ # Install App Store apps
+ mas install 937984704 # Amphetamine
 
 # Setup Pyenv for zsh
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
